@@ -1,14 +1,14 @@
 {
   "name": "blog",
   "version": "0.1.0",
-  "description": "Blog about my coding projects.",
+  "description": "Blog",
   "scripts": {
     "build": "bun run src/main.tsx",
     "dev": "bun run src/main.tsx -- --dev"
   },
   "author": {
-    "name": "Laurenz Mädje",
-    "email": "laurmaedje@gmail.com"
+    "name": "",
+    "email": ""
   },
   "homepage": "https://laurmaedje.github.io",
   "devDependencies": {

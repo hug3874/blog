@@ -41,12 +41,12 @@ const AHREFS =
   "ab196c32b430cd534174470f3bfc67da55eb94fc3c0b88a09f58dc62f75ec411";
 
 // Metadata.
-const NAME = "Laurenz Mädje";
-const EMAIL = "laurmaedje@gmail.com";
+const NAME = "Popo";
+const EMAIL = "";
 const YEAR = new Date().getFullYear();
-const TITLE = "Laurenz's Blog";
-const DESCRIPTION = "Blog about my coding projects.";
-const BASE_URL = "https://laurmaedje.github.io";
+const TITLE = "Popo's Blog";
+const DESCRIPTION = ""
+const BASE_URL = "https://hug3874.github.io";
 const RSS_PATH = "/rss.xml";
 const ATOM_PATH = "/atom.xml";
 
@@ -250,7 +250,7 @@ function Base({
       <body>
         <header>
           <a href="/" className="home">
-            Laurenz's Blog
+            Blog
           </a>
           <GitHub />
         </header>
